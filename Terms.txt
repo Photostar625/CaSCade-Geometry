@@ -1,0 +1,16 @@
+By using CaSCade-Geometry by Photostar (the "Program"), you (the "User") agree to the following terms:
+1) That the User shall not make any attempt to decompile, reverse engineer, or in other ways ascertain details of the operation of the program not visible to a pure front-end user without Photostar's permission
+2) That the User shall not willingly attempt to obtain or distribute a decompiled, reverse engineered, or otherwise deobfuscated copy of the Program as defined above
+3) That the User shall not copy and redistribute the program without modification, without permission and attribution
+4) That the User shall not copy and redistribute a modified version of the Program without attribution, permission, and a link to the original
+5) That the User implicitly agrees to these terms and all future versions thereof by using the Program within these terms' dates in force
+6) That if the User breaks these terms, access to the Program may be indefinitely revoked on a global scope.
+
+Photostar agrees to:
+1) Respect the right of the User to use the program privately and locally, in a way that does not disturb the Program itself
+2) Communicate with the User quickly and effectively to resolve bugs, add features, deliver information, and more such that the User has no motivation to violate these terms
+3) Not enforce these terms in an overly harsh way
+
+THIS AGREEMENT IS NOT LEGALLY BINDING AND CONTAINS NO LEGAL WEIGHT.
+THIS AGREEMENT IS SUPPORTED ONLY BY PHOTOSTAR'S DESIRE TO CONTINUE DEVELOPING THE PROGRAM FOR THE GOOD OF ALL USERS.
+Dates in Force: November 22, 2026 00:00:00UTC (entry) to [STILL IN FORCE] (exit)
